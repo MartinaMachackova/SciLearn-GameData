@@ -1,0 +1,120 @@
+{
+    "modules": {
+        "reading": {
+            "name": "Čtení a porozumění",
+            "icon": "📖",
+            "games": {
+                "GYMNE": {
+                    "name": "Sky Gym",
+                    "description": "Cvičení zaměřené na rozpoznávání zvuků a jazykové vzorce.",
+                    "vocabulary": [
+                        {
+                            "word": "Syllable (slabika)",
+                            "def": "Jednotka zvuku ve slově, která obsahuje jednu samohlásku."
+                        },
+                        {
+                            "word": "Phoneme (foném)",
+                            "def": "Nejmenší zvuková jednotka jazyka, která mění význam slova."
+                        },
+                        {
+                            "word": "Blend (souhláskový shluk)",
+                            "def": "Dvě nebo více souhlásek dohromady bez samohlásky mezi nimi (např. 'bl', 'str')."
+                        },
+                        {
+                            "word": "Vowel (samohláska)",
+                            "def": "Zvuk a, e, i, o, u – základ každé slabiky."
+                        },
+                        {
+                            "word": "Consonant (souhláska)",
+                            "def": "Všechny ostatní zvuky než samohlásky."
+                        }
+                    ],
+                    "explanation": [
+                        "Sleduj postavičku pohybující se na plátně.",
+                        "Uslyšíš zvuk nebo slovo – tvým úkolem je vybrat správnou možnost kliknutím.",
+                        "Správná odpověď posouvá postavu výš a přibližuje tě k cíli.",
+                        "Špatná odpověď postavu zastaví nebo sníží – nevzdávej to!",
+                        "Hra automaticky přizpůsobuje obtížnost podle tvého výkonu."
+                    ],
+                    "tips": [
+                        "🎧 Používej sluchátka – zvuky jsou klíčem k úspěchu.",
+                        "⏳ Nepospíchej – je lepší pauza než špatná odpověď.",
+                        "🔁 Opakuj hlasitě slova po hře, abys si je lépe zapamatoval/a.",
+                        "📅 Pravidelnost je důležitá – 20 minut denně je efektivnější než hodina jednou za týden.",
+                        "💪 Začni pomalým tempem a postupně zvyšuj rychlost reakce."
+                    ]
+                },
+                "PTTRN": {
+                    "name": "Pattern Playground",
+                    "description": "Cvičení na rozpoznávání zvukových vzorců a rytmů.",
+                    "vocabulary": [
+                        {
+                            "word": "Pattern (vzorec)",
+                            "def": "Opakující se sekvence zvuků nebo rytmů."
+                        },
+                        {
+                            "word": "Rhythm (rytmus)",
+                            "def": "Pravidelné střídání zvuků v čase."
+                        },
+                        {
+                            "word": "Sequence (sekvence)",
+                            "def": "Série zvuků nebo podnětů v určitém pořadí."
+                        },
+                        {
+                            "word": "Duration (délka)",
+                            "def": "Jak dlouho zvuk trvá – krátký vs. dlouhý zvuk."
+                        },
+                        {
+                            "word": "Tone (tón)",
+                            "def": "Výška zvuku – vysoký nebo nízký."
+                        }
+                    ],
+                    "explanation": [
+                        "Uslyšíš sekvenci zvuků tvořící vzorec.",
+                        "Tvojím cílem je identifikovat, který ze zobrazených obrázků/symbolů odpovídá vzorci.",
+                        "Klikni na správnou volbu dříve, než vyprší čas.",
+                        "Hra ti ukáže okamžitou zpětnou vazbu – zelenou pro správné, červenou pro špatné.",
+                        "Se zvyšující se úrovní se vzorce stávají delšími a komplexnějšími."
+                    ],
+                    "tips": [
+                        "🎵 Zkus si vzorec v duchu prozpěvovat – pomáhá to s pamětí.",
+                        "👆 Neklikej hned – počkej až vzorec dohraje do konce.",
+                        "📏 Dávej pozor na délku zvuků, nejen na jejich výšku.",
+                        "🔢 Čítej v duchu počet zvuků ve vzorci.",
+                        "🌡️ Zůstaň v klidu i při těžkých kolech – panika zhoršuje soustředění."
+                    ]
+                }
+            }
+        }
+    },
+    "default": {
+        "name": "Fast ForWord cvičení",
+        "description": "Toto cvičení pomáhá rozvíjet jazykové a kognitivní dovednosti.",
+        "vocabulary": [
+            {
+                "word": "Phonics (fonika)",
+                "def": "Metoda výuky čtení zaměřená na zvukovou stavbu slov."
+            },
+            {
+                "word": "Fluency (plynulost)",
+                "def": "Schopnost číst/mluvit rychle, správně a s porozuměním."
+            },
+            {
+                "word": "Comprehension (porozumění)",
+                "def": "Schopnost pochopit a interpretovat to, co slyšíš nebo čteš."
+            }
+        ],
+        "explanation": [
+            "Pečlivě poslouchej pokyny na začátku cvičení.",
+            "Reaguj na zvukové nebo vizuální podněty kliknutím na správnou možnost.",
+            "Program automaticky upravuje obtížnost podle tvojích odpovědí.",
+            "Snaž se udržet soustředění po celou dobu cvičení."
+        ],
+        "tips": [
+            "🎧 Vždy používej sluchátka pro nejlepší zvukový zážitek.",
+            "🕐 Uděl si přestávku každých 20-30 minut.",
+            "🏆 Snaž se každý den trochu zlepšit svůj předchozí výsledek.",
+            "😌 Zůstaň klidný/á – stres zhoršuje výkon."
+        ]
+    }
+}
